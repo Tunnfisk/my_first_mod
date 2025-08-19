@@ -1,4 +1,6 @@
+*.zip
 *.log
 *.bak
 .DS_Store
 Thumbs.db
+mods/**/node_modules/
